@@ -1,5 +1,5 @@
 # ukbb_lax_4ch_segmentation
-Segmenting Long-axis 4-chamber view Cardiac MRI with a U-Net deep convolutional neural network model
+Segmenting long-axis 4-chamber view Cardiac MRI with a U-Net deep convolutional neural network model and measure the dimensions of the 4 chambers.
 
 ## Set up the python environment (installing all python package dependencies)
 To ensure all required packages are installed, run the following command:
