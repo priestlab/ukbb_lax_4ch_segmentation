@@ -1,0 +1,22 @@
+# GitIgnore files for the repo
+
+# Ignore all .DS_Store files (they are so annoying)
+**.DS_Store
+
+# Ignore all .swp files
+**.swp
+
+# Ignore all pyc files
+**.pyc
+**.pyo
+
+# Ignore pycache files
+**/__pycache__
+
+# Ignore jupyter notebook checkpoints
+**/.ipynb_checkpoints
+
+# Ignore the model weights and the test data
+test_data
+weights
+outputs
